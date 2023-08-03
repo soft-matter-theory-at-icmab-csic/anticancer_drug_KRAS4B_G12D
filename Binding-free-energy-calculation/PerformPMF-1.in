@@ -12,8 +12,8 @@ colvar {
    lowerboundary 13.5
    upperboundary 18.5
 
-   lowerwallconstant 15.0
-   upperwallconstant 15.0
+   lowerwallconstant 10.0
+   upperwallconstant 10.0
 
    distance {
       group1 {
