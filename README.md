@@ -2,7 +2,7 @@
 
 Initial coordinates of 5 systems used for exploring the interactions between drug LIG1 and oncogenic KRAS4B G12D mutant while anchoring to cell membrane.
 
-FF parameter files of LIG1 and its isomer are reported here namely LIG1.prm, LIG1.rtf, LIG1-isomer.prm, and LIG1-isomer.rtf.
+CHARMM36m FF parameter files of LIG1 and its isomer are reported here namely LIG1.prm, LIG1.rtf, LIG1-isomer.prm, and LIG1-isomer.rtf.
 
 Python and Tcl scripts used for MD analysis and MD simulations were run using GROMACS.
 
