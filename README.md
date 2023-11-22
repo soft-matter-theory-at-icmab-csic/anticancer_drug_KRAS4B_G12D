@@ -8,4 +8,4 @@ Python and Tcl scripts used for MD analysis and MD simulations were run using GR
 
 A folder named "Binding-free-energy-calculation" is added for examples for biased force force calculations used in this project for calculating binding free-energy of LIG1 and its isomer with SII pocket of KRAS4B-G12D mutant on the PM.
 
-A preprint of this work can be found through this link: https://www.biorxiv.org/content/10.1101/2023.04.05.535682v1.abstract
+The published paper can be found through this link: https://pubs.rsc.org/en/content/articlelanding/2023/nr/d3nr04513g
